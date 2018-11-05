@@ -1,0 +1,16 @@
+{
+  "name": "node-fileupload-save",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Jayraj Kapadia",
+  "license": "ISC",
+  "dependencies": {
+    "formidable": "^1.2.1",
+    "fs": "0.0.1-security",
+    "http": "0.0.0"
+  }
+}
